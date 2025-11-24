@@ -77,7 +77,7 @@ The UI design draws inspiration from modern card-based interfaces and clean dark
 
 The color scheme and component styling were carefully chosen to provide good contrast and readability in both light and dark modes.
 
-
+## Local Development
 
 The frontend already includes hot module replacement by default when you run npm run dev, so any changes you make to the code will instantly appear in the browser without a full reload.
 
